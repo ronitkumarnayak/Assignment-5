@@ -11,4 +11,28 @@ How it Works
 4. If found, the student's marks are displayed.
 5. If not found, "Student not found." is displayed.
 
-2.
+2.List Manipulation
+In this program we demonstrates basic list operation like 
+-creating a list
+-Reversing elements
+-Slicing a list
+-Printing formated output
+
+It generates  number from a given range,extracts first five element,reverse them and prints results.
+
+
+How It Works
+Step 1: Create the List
+A list containing numbers from 1 to 10 is created using `range()`.
+
+Step 2: Extract First Five Elements
+The first five elements are extracted using list slicing.
+
+ Step 3: Reverse Extracted Elements
+The sliced list is reversed using slicing with a step of `-1`.
+
+ Step 4: Print Results
+The program prints:
+- The original list
+- The extracted first five elements
+- The reversed extracted elements
